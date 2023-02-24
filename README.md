@@ -117,6 +117,7 @@ b)
 
 c)
 
+![image](https://user-images.githubusercontent.com/117781501/221210845-95587e7d-262d-41ae-bf2b-0d7e9f92fc50.png)
 
 NOTA: Emplee solo una calculadora física o virtual para resolver las operaciones. No debe emplear aplicaciones web y las operaciones deben realizarse en una sola operación.
 
